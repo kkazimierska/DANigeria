@@ -1,0 +1,774 @@
+﻿ID;name;count
+1;Aba North;2
+2;Aba South;8
+3;Arochukwu;54
+4;Bende;4
+5;Ikwuano;6
+6;Isiala Ngwa South;18
+7;Isiala Ngwa North;7
+8;Isuikwuato;10
+9;Obi Ngwa;3
+10;Ohafia;23
+11;No name;0
+12;Ugwunagbo;3
+13;Ukwa East ;5
+14;Ukwa West;4
+15;Umu-Nneochi;7
+16;Umuahia North;12
+17;Umuahia South;10
+18;Demsa;1
+19;Gombi;1
+20;No name;0
+21;Guyuk;3
+22;Hong;1
+23;Lamurde;1
+24;Mayo-Belwa;1
+25;No name;0
+26;No name;0
+27;Song;4
+28;Yola South;1
+29;Yola North;2
+30;Abak;1
+31;No name;0
+32;Esit Eket;3
+33;Essien Udim;1
+34;No name;0
+35;No name;0
+36;No name;0
+37;Ibiono Ibom;4
+38;No name;0
+39;Ikono;2
+40;Ikot Abasi;2
+41;No name;0
+42;Ini;1
+43;Itu;2
+44;Mkpat Enin;3
+45;No name;0
+46;Nsit Ibom;4
+47;Nisit Ubium;9
+48;Obot Akara;4
+49;Okobo;3
+50;Onna;1
+51;No name;0
+52;Ukana Fun;5
+53;Uruan ;12
+54;Oruko;3
+55;Uyo;9
+56;Aguata;65
+57;Anambra East;38
+58;Anambra West;58
+59;No name;0
+60;Akwa North;9
+61;Awka South;34
+62;Ayamelum;11
+63;Dunukofia;18
+64;Ekwusigo;20
+65;Idemili North;56
+66;Idemili South;3
+67;Ihiala;2
+68;Njikoka;28
+69;Nnewi North;18
+70;Nnewi South;6
+71;Ogbaru;29
+72;Onitsha North;35
+73;No name;0
+74;Orumba North;19
+75;No name;0
+76;Oyi;3
+77;Alkaleri;63
+78;Bauchi;25
+79;Bogoro;1
+80;Dambam;1
+81;Darazo;13
+82;Dass;4
+83;Gamawa;1
+84;Ganjuwa;13
+85;No name;0
+86;Itas;4
+87;Jaamare;1
+88;No name;0
+89;Kirfi;11
+90;Misau;2
+91;Ningi;90
+92;Shira;5
+93;Tafawa Balewa;5
+94;No name;0
+95;Warji;3
+96;Zaki;4
+97;Kolokuma;2
+98;Nembe;2
+99;Ogbia;5
+100;Sagbama;2
+101;Yenagoa;10
+102;No name;0
+103;Agatu;9
+104;Apa;1
+105;Buruku;4
+106;Gboko;15
+107;Guma;11
+108;Gwer East;3
+109;Gwer West;43
+110;Katsina Ala;3
+111;Konshisha;1
+112;Logo;14
+113;Makurdi;6
+114;No name;0
+115;Ogbadibo;4
+116;Ohimini;2
+117;No name;0
+118;Okpokwu;46
+119;No name;0
+120;Tarka;13
+121;Ukum;3
+122;Ushongo;35
+123;Vandeikya;16
+124;Askira Uba;14
+125;No name;0
+126;Biu;79
+127;Chibok;13
+128;Damboa;26
+129;Dikwa;4
+130;Gubio;25
+131;Guzamala;2
+132;Hawul;6
+133;Jere;16
+134;Kaga;6
+135;Konduga;33
+136;Kwaya Kusar;8
+137;Mafa;9
+138;Magumeri;6
+139;Maiduguri;16
+140;No name;0
+141;Nganzai;17
+142;Shani;21
+143;No name;0
+144;Bekwarra;2
+145;No name;0
+146;Kalabar Municipal;1
+147;No name;0
+148;No name;0
+149;Obudu;1
+150;No name;0
+151;Yakurr;1
+152;Yala;1
+153;Aniocha North;6
+154;Aniocha South;8
+155;Bomadi;1
+156;No name;0
+157;Ethiope West ;2
+158;Ika North East;1
+159;Ika South;6
+160;Isoko North;4
+161;Isoko South;9
+162;Ndokwa East ;1
+163;No name;0
+164;No name;0
+165;Oshimili North;7
+166;Oshimili South;3
+167;Patani;1
+168;Sapele;4
+169;No name;0
+170;Ughelli North;6
+171;Burutu;1
+172;Ukwuani;3
+173;Uview;1
+174;No name;0
+175;Afikpo North;3
+176;Afikpo South;11
+177;Abakaliki;7
+178;Ebonyi;17
+179;Ezza North;6
+180;Ezza South;9
+181;Ikwo;1
+182;Ishielu;11
+183;Ivo;4
+184;Izzi;144
+185;Ohaozara;6
+186;Ohaukwu;3
+187;No name;0
+188;Akoko Edo;14
+189;Egor;20
+190;Essan NE;13
+191;Essan Central;18
+192;Essan SE;10
+193;Essan West;29
+194;Etsako Central;4
+195;Etsako East;11
+196;Etsako West;51
+197;Iguegben;13
+198;Ikpoba Okha;13
+199;Oredo;6
+200;Orhionmwon;13
+201;No name;0
+202;Owia SW;46
+203;Owian East;13
+204;Owian West;7
+205;No name;0
+206;Ado Ekiti;8
+207;No name;0
+208;Gbonyin;4
+209;Ekiti SW;7
+210;Ekiti W;1
+211;No name;0
+212;No name;0
+213;Ido Osi;3
+214;Ijero;6
+215;Ikere;1
+216;Ikole;2
+217;Ilejemeje;8
+218;Irepodum;3
+219;Ise;11
+220;No name;0
+221;Oye;1
+222;Aninri;18
+223;Awgu;20
+224;Enugu East;5
+225;Enugu North;1
+226;No name;0
+227;Ezeagu;4
+228;Igbo Etiti;13
+229;Igbo Eze North;48
+230;Igbo Eze South;5
+231;Isi Udo;4
+232;Nkanu East;5
+233;Nkanu West;11
+234;Nsukka;9
+235;Oji River;7
+236;Udenu;12
+237;Udi;9
+238;Uzo Uwani;52
+239;Abaji;22
+240;Bwari;26
+241;Gwagwalada;8
+242;Ilesha East;1
+243;Ilesha West;3
+244;No name;0
+245;Irewole;1
+246;No name;0
+247;Iwo;1
+248;Obokun;2
+249;Odo Otin;3
+250;Ola Oluwa;3
+251;Olorunda;2
+252;Oriade;3
+253;No name;0
+254;Osogbo;3
+255;Afijon;1
+256;Akinyele;17
+257;Atiba;1
+258;Egbeda;2
+259;Ibadan N;2
+260;Ibadan NE;4
+261;Ibadan NW;1
+262;Ibadan SW;1
+263;Ibadan SE;16
+264;Kuje;2
+265;Kwali;1
+266;No name;0
+267;Akko;6
+268;Balanga;4
+269;Billiri;1
+270;Dukku;7
+271;Funakaye;1
+272;Gombe;13
+273;Kaltungo;1
+274;Kwami;5
+275;Nafada;1
+276;No name;0
+277;Yamaltu;1
+278;Aboh Mbaise;26
+279;Ahizau Mbaise;8
+280;Ehime Mbano;2
+281;Ezinihitte;4
+282;Ideato North;5
+283;Ideato South;7
+284;Ihitte;5
+285;Ikeduru;5
+286;Isiala Mbano;2
+287;No name;0
+288;Mbatoli;4
+289;Ngor Okpala;12
+290;Njaba;9
+291;No name;0
+292;Nwangele;5
+293;Obowo;6
+294;Oguta;4
+295;Ohaji;3
+296;Okigwe;4
+297;Orlu;8
+298;Orsu;4
+299;Orlu E;18
+300;Orlu W;18
+301;Owerri Municipal;10
+302;No name;0
+303;Owerri West;6
+304;Onuimo;1
+305;Auyo;7
+306;Babura;1
+307;Biriniwa;7
+308;No name;0
+309;Buji;4
+310;Dutse;3
+311;Gagarawa;9
+312;Garki;7
+313;No name;0
+314;Guri;5
+315;Gwaram;8
+316;Gwiwa;1
+317;Hadejia;2
+318;Jahun;1
+319;Kafin Hausa;6
+320;Kaugama;9
+321;Kazure;7
+322;Kiri Kasama;6
+323;Malam Madori;4
+324;No name;0
+325;Ringim;5
+326;Roni;7
+327;No name;0
+328;Yankwashi;20
+329;Kiyawa;3
+330;No name;0
+331;Chikun;1
+332;Giwa;1
+333;Kaura;4
+334;Igabi;4
+335;Ikara;3
+336;No name;0
+337;JemaA;2
+338;Kachia;5
+339;Kaduna N;1
+340;No name;0
+341;Kaura E;1
+342;Kajuru;1
+343;Kuban;2
+344;No name;0
+345;Lere;10
+346;Makarafi;2
+347;No name;0
+348;Sanga;3
+349;Soba;3
+350;No name;0
+351;Zaria;3
+352;Kaduna S;13
+353;No name;0
+354;Albasu;4
+355;Bagwai;10
+356;No name;0
+357;Bichi;6
+358;No name;0
+359;Dala;8
+360;Dambatta;2
+361;Dawakin Kudu;16
+362;Dawakin Tofa;3
+363;Doguwa;5
+364;Fagge;6
+365;No name;0
+366;Garko;6
+367;Garum Malam;6
+368;Gaya;2
+369;Gezawa;5
+370;Gwale;4
+371;Gwarzo;2
+372;Kabo;5
+373;Kano Municipal;11
+374;Karaye;32
+375;Kibiya;4
+376;Kiru;15
+377;Kumbotso;3
+378;Kunchi;2
+379;No name;0
+380;Madobi;7
+381;Makoda;1
+382;No name;0
+383;Nasarawa;81
+384;No name;0
+385;Rimin Gado;3
+386;No name;0
+387;Shanono;6
+388;No name;0
+389;No name;0
+390;Tarauni;2
+391;Tofa;4
+392;No name;0
+393;Tudun Wada;3
+394;Ungogo;2
+395;Warawa;3
+396;Wudil;4
+397;Bakori;6
+398;Batagarawa;9
+399;Batsari;19
+400;Bindawa;16
+401;Charanchi;44
+402;Dan Musa;147
+403;Danume;57
+404;Danja;71
+405;Daura;14
+406;No name;0
+407;Dutsin MA;8
+408;Faskari;12
+409;Funtuna;53
+410;Ingawa;13
+411;Kafur;47
+412;Kankara;31
+413;No name;0
+414;Katsina;8
+415;Kurfi;11
+416;Kusada;18
+417;Malumafshi;22
+418;Mani;31
+419;Mutazu;94
+420;Masawa;24
+421;Rimi;15
+422;Sabuwa;36
+423;Safana;21
+424;Sandamu;10
+425;Aleiro;13
+426;Argungu;12
+427;Augie;7
+428;Birnin Kebbi;13
+429;Bunza;20
+430;Fakai;53
+431;Gwandu;29
+432;Jega;46
+433;Kalgo;15
+434;Kokko;59
+435;Maiyama;36
+436;Ngaski;172
+437;No name;0
+438;Shanga;134
+439;No name;0
+440;Wasagu Danko;112
+441;Yauri;165
+442;Zuru;28
+443;Adavi;1
+444;Ajaokuta;4
+445;Ankpa;14
+446;No name;0
+447;Dekina;27
+448;Ibaji;7
+449;Idah;8
+450;Igalamela Odolu;8
+451;Ijumu;10
+452;Kabba Bunu;6
+453;No name;0
+454;Lokoja;4
+455;Mopa Muro;5
+456;Ofu;9
+457;Ogori Magongo;2
+458;Okehi;6
+459;Okene;6
+460;Olamaboro;9
+461;Omala;2
+462;Yagaba East;13
+463;Yagba West;14
+464;Asa;3
+465;Edu;9
+466;No name;0
+467;No name;0
+468;Iloronin East;6
+469;Iloronin South;1
+470;Iloronin West;5
+471;No name;0
+472;Isin;6
+473;Kaiama;30
+474;Moro;5
+475;No name;0
+476;Oke Ero;3
+477;Oyun;6
+478;Pategi;13
+479;Agege;1
+480;Ajeromi Ifelodun;1
+481;Alimosho;1
+482;No name;0
+483;Ifako;16
+484;Ikeja;6
+485;Oshodi Isolo;1
+486;Mushin;1
+487;No name;0
+488;Akwanga;10
+489;Awe;12
+490;Doma;11
+491;Karu;8
+492;Keana;5
+493;Keffi;17
+494;Kokona;10
+495;Lafia;7
+496;No name;0
+497;No name;0
+498;No name;0
+499;Toto;20
+500;Wamba;7
+501;No name;0
+502;Agwara;1
+503;Bida;1
+504;Bosso;20
+505;Chanchaga;1
+506;No name;0
+507;Gbako;3
+508;no name;0
+509;No name;0
+510;Kontagora;1
+511;Lapai;8
+512;No name;0
+513;Magama;4
+514;Mariga;6
+515;Mashegu;4
+516;No name;0
+517;Munya;10
+518;Paikoro;2
+519;No name;0
+520;No name;0
+521;Shiroro;3
+522;Suleja;5
+523;Tafa;2
+524;No name;0
+525;No name;0
+526;No name;0
+527;Ado Odo;7
+528;No name;0
+529;Evekoro;2
+530;Ifo;2
+531;Ijebu East;3
+532;Ijebu NE;8
+533;Ijebu North;5
+534;Ijebu Ode;5
+535;No name;0
+536;Obafemi Owode;6
+537;Odeda;6
+538;Odogbolu;2
+539;No name;0
+540;Shagamu;6
+541;Akoko NE;4
+542;Akoko NW;4
+543;Akoko SE;2
+544;Akoko SW;8
+545;Akure N;9
+546;Akure S;6
+547;Ese Odo;1
+548;Idanre;1
+549;No name;0
+550;Ile Oluji;4
+551;Irele;5
+552;Odigbo;4
+553;Okitipupa;5
+554;Ondo East;4
+555;Ondo West;1
+556;No name;0
+557;Owo;20
+558;Ayedade;3
+559;No name;0
+560;Atakunmosa East;4
+561;No name;0
+562;Boluwaduro;4
+563;No name;0
+564;Ede North;1
+565;Ede South;8
+566;No name;0
+567;Ejigbo;3
+568;Ife central;6
+569;Ife east;5
+570;No name;0
+571;No name;0
+572;No name;0
+573;No name;0
+574;Ila;2
+575;No name;0
+576;Ibarapa E;9
+577;Ibarapa N;6
+578;Ido;9
+579;Irepo;5
+580;Iseyin;3
+581;No name;0
+582;Kajola;3
+583;Lagelu;4
+584;Ogbomosho N;2
+585;Ogbomosho South;3
+586;Ogo Oluwa;1
+587;Olorunsogo;1
+588;Olu Yole;6
+589;Ona Ara;4
+590;Orelope;1
+591;Ori Ire;1
+592;Oyo East;1
+593;No name;0
+594;Saki East;2
+595;No name;0
+596;Barkin Laydy ;12
+597;No name;0
+598;Bokkos;7
+599;Jos East ;2
+600;Jos North;14
+601;Jos South;14
+602;Kanam;13
+603;Kanke;2
+604;Langtan North;12
+605;Langtan South;5
+606;No name;0
+607;Mikang;2
+608;Panksin ;2
+609;No name;0
+610;Riyom;8
+611;Shendam ;4
+612;Wase;28
+613;Abua Odual;1
+614;Ahoda East;3
+615;Ahoda West ;3
+616;Asari Toru;1
+617;Eleme;1
+618;Emuoha;3
+619;Etche;3
+620;Gokana;1
+621;Ikwerre;13
+622;Khana;1
+623;No name;0
+624;Ogba Egbema;4
+625;Ogo Bolo;1
+626;Okrika;2
+627;Ommuma;4
+628;Oyigbo;3
+629;Port Harcourt;1
+630;No name;0
+631;Binji;8
+632;No name;0
+633;Dange Shuni;23
+634;No name;0
+635;Gwadabawa;3
+636;No name;0
+637;Kebbe;1
+638;Kware;15
+639;No name;0
+640;Shagari;4
+641;Silame;2
+642;Sokoto North;2
+643;Sokoto South;3
+644;Tambuwal;5
+645;Tureta;2
+646;Wamako;8
+647;Wurno;7
+648;Yabo;3
+649;Ardo Kola ;2
+650;Bali;3
+651;Donga;6
+652;Gassol;15
+653;Ibi;1
+654;Jalingo;15
+655;Karim Lamido;3
+656;Lau;3
+657;Wukari;2
+658;No name;0
+659;Zing;1
+660;Bade;2
+661;Bursari;1
+662;Damaturu;1
+663;Fika;12
+664;Fune;1
+665;Geidam;1
+666;Gujba;28
+667;Gulani;4
+668;Jakusko;1
+669;Karasuwa;3
+670;No name;0
+671;Nguru;6
+672;Potiskum;4
+673;No name;0
+674;Anka;61
+675;Bakura;4
+676;No name;0
+677;Bukkuyum;3
+678;Bungudu;6
+679;Gummi;6
+680;Gusau;24
+681;Kaura Namoda;6
+682;Maradun;19
+683;Maru;41
+684;Shinkafi;11
+685;Talata Mafara;9
+686;Tsafe;7
+687;Zurmi;7
+688;Udung Uko;1
+689;Baruten;7
+690;Bagudo;54
+691;Gudu;2
+692;No name;0
+693;Gada;8
+694;Sabon Birini;4
+695;Kaita;15
+696;Jibia;12
+697;Mashi;10
+698;No name;0
+699;Zango;14
+700;Baure;4
+701;Sule Tankarkar;2
+702;Maigatari;8
+703;Machina;4
+704;Yusufari;12
+705;Yunusari;5
+706;No name;0
+707;No name;0
+708;Kukawa;4
+709;Monguno;17
+710;Ngala;78
+711;Kala Balge;40
+712;Ikorodu;14
+713;Kosofe;4
+714;Lagos Island;3
+715;Lagos Mainland;2
+716;Shomolu;3
+717;Saki West ;3
+718;No name;0
+719;Yewa North;2
+720;Imeko Afon;3
+721;Iwajowa;1
+722;Atisbo;6
+723;Borgu;7
+724;Isa;2
+725;Dandi;61
+726;Arewa Dandi;114
+727;Bama;12
+728;Gwoza;30
+729;Madagali;1
+730;Michika;4
+731;Mubi North;1
+732;No name;0
+733;No name;0
+734;Fufore;5
+735;Jada;1
+736;Ganye;9
+737;Toungo;2
+738;Gashaka;2
+739;Saraduna;3
+740;Kurmi;1
+741;Ussa;14
+742;Takum;4
+743;Kwande;12
+744;Obanliku;5
+745;No name;0
+746;Etung;2
+747;Akampka;7
+748;Odukpani;1
+749;Epe;1
+750;Ojo;7
+751;Ogun waterside;8
+752;Andoni;2
+753;Bonny;3
+754;Opobo;4
+755;Mbo;8
+756;Oron;2
+757;No name;0
+758;Ibeno;1
+759;No name;0
+760;Degema;2
+761;Akuku Toru;10
+762;Nembe;2
+763;Southern Ijaw;2
+764;Ekeremor;6
+765;Burutu;1
+766;No name;0
+767;Wari North;2
+768;Ilaje;1
+769;Ibeju Lekki;1
+770;No name;0
+771;No name;0
+772;No name;0
+773;Akpabujo;3
